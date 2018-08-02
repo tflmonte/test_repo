@@ -12,7 +12,7 @@ static int16_t tx_set;
 static int16_t tx_to_set = MIN_TEST_NUMBER;
 
 
-void apphandler(void){
+void AppHandler(void){
 	RETARGET_SerialInit();
 
 	while (1) {
