@@ -1,3 +1,9 @@
+Version 0.3.0:
+ - Added new extended advertisement example kba files
+ - Added url file to tx_power_levels folder
+ - Merge branch 'release'
+ - 0.2.0
+
 Version 0.2.0:
  - Another bug fix
  - bug fix
